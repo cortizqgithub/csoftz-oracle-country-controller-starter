@@ -1,3 +1,11 @@
+/*----------------------------------------------------------------------------*/
+/* Source File:   COUNTRYCONTROLLERAUTOCONFIGURATION.JAVA                     */
+/* Copyright (c), 2025 CSoftZ                                                 */
+/*----------------------------------------------------------------------------*/
+/*-----------------------------------------------------------------------------
+ History
+ Apr.20/2025  COQ  File created.
+ -----------------------------------------------------------------------------*/
 package com.acme.country.common.config;
 
 import com.acme.country.controller.api.v1.CountryController;
